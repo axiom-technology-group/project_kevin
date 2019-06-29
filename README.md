@@ -1,3 +1,4 @@
+Project 1:xcar
 这是一个pyspdier项目，用于爬取www.xcar.com.cn
 
 pyspider是一个通过web UI界面来操作的python爬虫框架。
@@ -12,3 +13,7 @@ pyspider是一个通过web UI界面来操作的python爬虫框架。
 实现情况：
 1.在该版本的代码中，已实现将所有车系及其下的所有车型的基本信息爬取并保存到mysql数据库中，包括基本参数以及用户口碑评分
 2.将汽车各个方位的照片爬取并下载到指定的文件路径下
+
+Project 2:bjsyqw
+This is a pyspider project to crawl www.bjsyqw.com, 
+downloading the articals about cars and the images attached to them.
