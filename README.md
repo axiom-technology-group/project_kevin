@@ -17,3 +17,7 @@ pyspider是一个通过web UI界面来操作的python爬虫框架。
 Project 2:bjsyqw
 This is a pyspider project to crawl www.bjsyqw.com, 
 downloading the articals about cars and the images attached to them.
+
+Project 3:19lou
+这是一个pyspider项目，用于爬取 www.19lou.com
+将有关汽车的论坛文章全部爬取下来，同时保存文章的配图
